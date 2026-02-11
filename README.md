@@ -1,1 +1,3 @@
-This project will be my first webpage with TOP. It will be a simple recipes website. I will be usining this project to test my understanding of html as well as git.
+TOP's Project
+
+This project is a requested assignment from TOP that i will be representing with my own skills and understanding that i have gained from TOP's curriculum. The project is about creating a simple recipes website, using only html.
