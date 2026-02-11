@@ -1,1 +1,1 @@
-This project will be my first webpage with TOP. It will be a simple recipes webpage. I will be using Html with TOP and test the things i took with it!
+This project will be my first webpage with TOP. It will be a simple recipes website. I will be usining this project to test my understanding of html as well as git.
